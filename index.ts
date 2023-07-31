@@ -1,10 +1,17 @@
 /*
+Exercise 10: Adding Comments: Choose two of the programs you’ve written, and add at least one comment to each. If you don’t have anything specific to write because your programs are too simple at this point, just add your name and the current date at the top of each program file. Then write one sentence describing what the program does.
 
+
+Solution:
 My name: Muhammad kamran, Date: 1st Aug 2023
 This program is to Change the name cases into lower, upper and title case. 
 
 */
+
+// Taking name in a variable
+
 let personName: string = "muhaMMad kamraN ali rana"; 
+
 // this will change name to lower case
 let lowercaseName: string = personName.toLowerCase();
 
